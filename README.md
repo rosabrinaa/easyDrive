@@ -15,3 +15,11 @@ Competências desenvolvidas:
 - UX/UI
 - Planejamento de produto
 - Metodologias ágeis
+
+Equipe:
+- Kaio Brocco
+- Luan Gonçalves
+- Matheus Santana
+- Sabrina Rosa
+- Sidney Junior
+- Ygor Buecker
